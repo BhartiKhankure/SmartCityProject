@@ -4,7 +4,7 @@ The aim to design and develop the project is to produce a tourist guide for Nagp
 **Requirements:**
 Java version 8 or higher.
 
-**Installation**
+**Installation:**
 Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 git clone https://github.com/BhartiKhankure/SmartCityProject.git
 
